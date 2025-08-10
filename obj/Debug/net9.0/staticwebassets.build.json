@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "42UOh885Q/GF0jG++4isQuJaHB8jKYPOHc9+n2cS0SY=",
+  "Source": "WeatherPresentAPI",
+  "BasePath": "_content/WeatherPresentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
