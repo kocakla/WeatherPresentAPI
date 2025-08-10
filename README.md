@@ -60,6 +60,7 @@ dotnet ef database update
 dotnet run
 
 ---
+
 ## Configuration
 
 The application uses `appsettings.json` for configuration. Important settings include:
